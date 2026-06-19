@@ -1,0 +1,9 @@
+# Ignore Kaggle credentials
+CNN/catvsdog/kaggle.json
+
+# Ignore the entire data folder
+CNN/catvsdog/data/
+
+# Ignore model files
+*.h5
+*.keras
