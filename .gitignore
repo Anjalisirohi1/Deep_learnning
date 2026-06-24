@@ -3,6 +3,7 @@ CNN/catvsdog/kaggle.json
 
 # Ignore the entire data folder
 CNN/catvsdog/data/
+Functional_API/utkface/data_utk/
 
 # Ignore model files
 *.h5
